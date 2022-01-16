@@ -30,4 +30,10 @@ public class MovieService {
         MovieDTO dto = new MovieDTO(result);
         return dto;
     }
+
+    public MovieDTO saveMovie(MovieDTO dto){
+        Movie movie = new Movie(null, dto.getTitle(), 0.0,0,dto.getImage());
+        Movie result = repository.save(movie);
+        return new MovieDTO(movie);
+    }
 }
