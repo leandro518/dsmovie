@@ -13,8 +13,9 @@
 
 <h2>🖥️ Tela principal: </h2>
 <p align="center">
-  <img alt="Happy" src="https://user-images.githubusercontent.com/66326378/149644378-42824155-5aae-4ab3-b9ff-131f0d50171b.png" width="100%">
+  <img alt="Happy" src="https://user-images.githubusercontent.com/20547536/149677229-0d675b01-186a-4011-9584-56c444257961.jpg" width="100%">
 </p>
+
 
 ## ✨ Tecnologias
 
